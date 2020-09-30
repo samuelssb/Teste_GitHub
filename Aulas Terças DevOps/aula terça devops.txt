@@ -1,0 +1,100 @@
+DevOps = Desenvolvimento e ???
+
+
+desenvolvimento e operações de software
+devops
+
+[empresa atento]
+
+https://classroom.google.com/u/1/c/MTQ0MjQ1OTcxODI0
+
+A cultura devOps tem em sua filosofia uma 
+cultura agíl - Metodologia ágil
+
+Prjetos maus rapidos
+equipes mais produtivas
+
+
+---------Os seus 3 principios são-------------
+
+-------integração continua
+
+Integra toda a equipe,tem ferramentas de 
+automação,em todas as fases para ficar mais 
+facil a colaboração de todo mundo,e a integração
+continua dos membros da equipe para favorecer o 
+plazo e qualidade,
+Uma ferramenta colaborativa onde a equipe 
+desenvolve o software.
+ 
+-------entregra continua;
+
+Entrega continua requer uma aprovação manual.
+Fazer a validação de tudo,testar tudo,afim de 
+ser passado o software para produção
+ai sim temos um processo de entrega continua  
+em um determinado tempo eu vou ter um tempo 
+de colaboração de todo mundo,analise,desenvolvimento
+para ai sim ter a entrega 
+
+------implantação continua;
+
+
+É ter uma versão de teste para que o usuario tenha 
+a chance de mexer manipular para ver se tudo esta 
+de acordo ou não tendo assim o feedback do cliente 
+para ver se está tudo ok,nessa versão de teste.
+Para que cumprindo todos os cliterios ele poderá
+subir para o ambiente de produção.
+Essa parte de visualização com o usuario é muito 
+importante.Pois requer uma aprovação manual ante de 
+sua produção
+
+
+
+github = ferramenta de automação;
+auxilia no desenvolvimento de projeto,software,
+site,aplicativo...
+
+
+
+
+SCRUM----------------------------------------
+
+LEVE / SIMPLES DE ENTENDER / FÁCIL DE DOMINAR
+
+
+FRAMEWORK estrutural é um métodologia agil
+tem os principios de como deve ser 
+trabalhadas cada coisa.
+
+Ele é adaptativel,flexissivel;
+
+Transparência;
+Inspeção;
+adaptação;
+
+TIME SCRUM:
+scrum master= Lideres do time de desenvolvimento
+scrum= é o time que vai desenvolver
+sprints= é a tarefa a ser desenvolvida
+stakeholders= o que não está ligado diretamente 
+com o projeto 
+
+
+
+
+
+22/09
+
+conta no trello
+
+conta no git/github
+
+Sit do GIT: https://git-scm.com/
+Download para Windows: https://git-scm.com/download/win
+Criar a conta no GitHub: https://github.com/
+
+
+https://classroom.google.com/u/0/c/MTQ0MjQ1OTcxODI0?cjc=veldwlw
+(da uninove dessa vez)
